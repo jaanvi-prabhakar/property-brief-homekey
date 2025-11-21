@@ -4,7 +4,14 @@ This repository implements a backend-focused feature that generates a **unified,
 
 ## Overview
 
-Real-estate information often comes from multiple sources — public records, listing portals, and human notes, each containing different or incomplete fields.  
+Real-estate information often comes from multiple sources such as public records, listing portals, and human notes, each containing different or incomplete fields.
+
+Sources:
+
+- https://www.madronavl.com/launchable/public-data-sources-real-estate
+- https://www.attomdata.com/industries/real-estate/portals/
+- https://data.boston.gov/dataset/property-assessment
+
 This system:
 
 - Loads raw data from multiple sources
