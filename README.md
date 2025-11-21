@@ -12,6 +12,8 @@ Sources:
 - https://www.attomdata.com/industries/real-estate/portals/
 - https://data.boston.gov/dataset/property-assessment
 
+User Notes represent human-generated contextual information that cannot be captured by structured public records or listing portals. They are critical for creating a complete and realistic property brief as they provide qualitative insights missing from official sources, warnings and flags that are valuable to buyers, and they help resolve uncertainty when data conflicts.
+
 This system:
 
 - Loads raw data from multiple sources
