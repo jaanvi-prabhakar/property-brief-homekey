@@ -17,7 +17,8 @@ The result is a clean, trustworthy brief suitable for UI display or agentic AI w
 
 ## Architecture
 
-`backend/
+```
+backend/
 app/
 main.py
 models/
@@ -32,7 +33,8 @@ public_records.json
 listings.json
 user_notes.json
 frontend/
-README.md`
+README.md
+```
 
 **Key Components:**
 
@@ -48,9 +50,6 @@ README.md`
 The system defines a clear **trust priority**:
 
 public_records > listing > user_notes
-
-markdown
-Copy code
 
 ### Merging Rules
 
