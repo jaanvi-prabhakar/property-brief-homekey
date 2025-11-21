@@ -110,3 +110,8 @@ It emphasizes:
 
 The result is a backend foundation for generating reliable **Property Briefs** from multiple, inconsistent data inputs.
 If time permits, I would add a front-end too, for a full working demo! (need 1hr)
+
+## Output Screenshots
+
+![alt text](image.png)
+![alt text](image-1.png)

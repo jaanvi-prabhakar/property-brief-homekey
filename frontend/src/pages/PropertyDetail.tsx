@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
 import { getPropertyBrief } from "../api/property";
 import { useParams } from "react-router-dom";
+import type { PropertyBrief } from "../types/property";
 
 export default function PropertyDetail() {
   const { id } = useParams();
-  const [brief, setBrief] = useState<any>(null);
+  const [brief, setBrief] = useState<PropertyBrief | null>(null);
 
   useEffect(() => {
     if (id) {
@@ -16,7 +17,7 @@ export default function PropertyDetail() {
 
   return (
     <div>
-      <h1>Property Brief – {brief.id}</h1>
+      <h1>Property Brief - {brief.id}</h1>
 
       <h2>Address</h2>
       <p>
