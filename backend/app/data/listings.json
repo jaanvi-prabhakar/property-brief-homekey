@@ -1,0 +1,21 @@
+{
+    "p1": {
+      "id": "p1",
+      "address": "123 Maple St, Springfield",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1500,
+      "price": 420000,
+      "description": "Recently renovated, close to downtown."
+    },
+    "p2": {
+      "id": "p2",
+      "address": "88 Oak Ave, Riverton",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2000,
+      "price": 530000,
+      "description": "Spacious home with updated kitchen."
+    }
+  }
+  

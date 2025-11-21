@@ -1,0 +1,12 @@
+{
+    "p1": {
+      "id": "p1",
+      "notes": "Seller claims unofficial 4th bedroom in basement.",
+      "flags": ["verify permits", "possible basement renovation"]
+    },
+    "p2": {
+      "id": "p2",
+      "notes": "Roof replaced in 2019; quiet neighborhood.",
+      "flags": ["verify roof documents"]
+    }
+}  

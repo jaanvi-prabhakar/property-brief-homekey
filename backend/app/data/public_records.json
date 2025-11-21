@@ -1,0 +1,19 @@
+{
+    "p1": {
+      "id": "p1",
+      "address": "123 Maple Street, Springfield",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1400,
+      "year_built": 1995
+    },
+    "p2": {
+      "id": "p2",
+      "address": "88 Oak Avenue, Riverton",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2100,
+      "year_built": 1980
+    }
+  }
+  
