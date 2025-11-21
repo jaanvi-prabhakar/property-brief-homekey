@@ -99,4 +99,5 @@ It emphasizes:
 - Clear data provenance
 - Extensibility for future real-world use cases
 
-The result is a robust backend foundation for generating reliable **Property Briefs** from multiple, inconsistent data inputs.
+The result is a backend foundation for generating reliable **Property Briefs** from multiple, inconsistent data inputs.
+If time permits, I would add a front-end too, for a full working demo! (need 1hr)
